@@ -64,8 +64,7 @@
                     <verbose>true</verbose>
                     <images>
                         <image>
-                            <name>eureka-server</name>
-                            <alias>eureka-server</alias>
+                            <name>tjopek/eureka-server</name>
                             <build>
                                 <dockerFileDir>${project.basedir}</dockerFileDir>
                             </build>
